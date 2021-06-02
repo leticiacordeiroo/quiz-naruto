@@ -20,6 +20,9 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
+  "resolutions": {
+    "styled-components": "^5"
+  },
   "include": [
     "src"
   ]
