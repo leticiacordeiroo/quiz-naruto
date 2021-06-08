@@ -15,11 +15,9 @@ const Template: Story<ButtonProps> = (args) => <Button {...args} />;
 export const ButtonQuiz = Template.bind({});
 
 ButtonQuiz.args = {
-  label: 'Button Quiz',
   backgroundColor: '#DEC34D'
 };
 
 export const Naruto = Template.bind({});
  Naruto.args = {
-  label: 'Button Quiz',
 };

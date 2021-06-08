@@ -1,16 +1,14 @@
 import React from 'react';
 import { CardContainer } from './style';
-
-// export interface CardProps{
-//     title: string
-// }
+import Button from '../../components/Button';
 
 export const Card: React.FC = () => {
     return (
         <CardContainer>
             <section>
+                <h3>Perguntas aqui</h3>
                 <div>
-                    <button>teste1</button>
+                    <button>teste2</button>
                 </div>
                 <div>
                     <button>teste2</button>

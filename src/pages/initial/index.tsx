@@ -13,7 +13,7 @@ const Initial: React.FC = () => {
 
   return (
     <div>
-        <Button backgroundColor={''} label={'iniciar quiz'} icon={false} onClick={handleClick} ></Button>
+        <Button backgroundColor={''} icon={false} onClick={handleClick} >Iniciar Quiz</Button>
     </div>
   )
 }

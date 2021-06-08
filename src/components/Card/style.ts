@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 
 export const CardContainer =  styled.div `
-    padding: 3rem 4rem;
+    padding: 10rem 4rem;
     width: 50rem;
     height: 100vh;
     background: var(--purple-500);
